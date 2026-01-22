@@ -184,7 +184,7 @@ const Portfolio: React.FC = () => {
         "/images/projects/neuronify-2.jpg",
         "/images/projects/neuronify-3.jpg"
       ],
-      video: "https://private-user-images.githubusercontent.com/90385616/328546165-e926099c-0f35-4e5f-8bf1-5875045fab29.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkxMjE5NjcsIm5iZiI6MTc2OTEyMTY2NywicGF0aCI6Ii85MDM4NTYxNi8zMjg1NDYxNjUtZTkyNjA5OWMtMGYzNS00ZTVmLThiZjEtNTg3NTA0NWZhYjI5Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTIyVDIyNDEwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxMjZhYTE2ZWVhZTMwYjI1Yjg3YzhmMmQ3MjgxYzgwYzkzOTNhOGI4ZDc4NWVmMTk1OGE3ZjQyOWQxMWI4YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jtebQSTdltUaUUY0MH-zWLNpHZ2IcoY4caQPcF-6NkQ"
+      video: "/videos/neuronify-demo.mp4"
     }
   ];
 
